@@ -24,6 +24,6 @@ $(function(){
 
     // Event listener for click on #yesButton
     $("#yes").on("click", function() {
-        alert("Yeahh! Now you are mine forever Sam 😘");
+        alert("Yeahh! Congregation, you win a kiss akif 😘");
     });
 });
